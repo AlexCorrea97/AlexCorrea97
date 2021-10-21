@@ -1,5 +1,5 @@
-###Hola, soy Alex Correa
-##Soy ingeniero mecatónico y me gusta el desarrollo de software y de sistemas embebidos.
+# Hola, soy Alex Correa
+### Soy ingeniero mecatónico y me gusta el desarrollo de software y de sistemas embebidos.
 <!--
 **AlexCorrea97/AlexCorrea97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
